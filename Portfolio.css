@@ -1,0 +1,13 @@
+.navbar a{
+    float: left;
+    padding:12px;
+    widows: 33%;
+    text-align: center;
+    
+}
+
+
+img {
+    width: 33%;
+    height: 50%;
+}
